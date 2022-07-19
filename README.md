@@ -25,3 +25,13 @@ The data consists of 100,000 observations of space taken by the SDSS (Sloan Digi
     plate = plate ID, identifies each plate in SDSS
     MJD = Modified Julian Date, used to indicate when a given piece of SDSS data was taken
     fiber_ID = fiber ID that identifies the fiber that pointed the light at the focal plane in each observation
+
+Acknowledgements
+
+The data released by the SDSS is under public domain. Its taken from the current data release RD17.
+
+    More information about the license: http://www.sdss.org/science/image-gallery/
+
+SDSS Publications:
+
+    Abdurro’uf et al., The Seventeenth data release of the Sloan Digital Sky Surveys: Complete Release of MaNGA, MaStar and APOGEE-2 DATA (Abdurro’uf et al. submitted to ApJS)
